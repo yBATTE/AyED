@@ -1,7 +1,10 @@
 # Resolución
 
+Lucas Battelini! Curso Algoritmos y Estructuras de Datos K1102 a cargo del profesor Eduardo Zúñiga
+
 ¡Bienvenido/a a mi repositorio de resolución! Aquí encontrarás la resolucion para calcular el valor de π usando la serie de Liebniz. Despues de 1,326,982 iteraciones se logra llegar al valor mas proximo de π
 
+Compilador utilizado mingw32
 ## Contenido
 
 - [Ejercicios](https://github.com/yBATTE/AyED/tree/master/01-CalcularPi)

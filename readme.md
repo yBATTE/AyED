@@ -1,6 +1,8 @@
 # Repositorio Personal
 
-¡Bienvenido/a a mi repositorio personal! Aquí encontrarás una colección de proyectos, ejercicios y recursos relacionados con mi trabajo y pasiones. Este repositorio está organizado para ayudarte a explorar y acceder fácilmente a diferentes aspectos de mi trabajo. Siéntete libre de navegar, explorar y utilizar cualquier recurso que encuentres útil.
+¡Bienvenido/a a mi repositorio soy Lucas Battelini! Curso Algoritmos y Estructuras de Datos K1102 a cargo del profesor Eduardo Zúñiga Aquí encontrarás una colección de proyectos, ejercicios y recursos relacionados con mi trabajo y pasiones. Este repositorio está organizado para ayudarte a explorar y acceder fácilmente a diferentes aspectos de mi trabajo. Siéntete libre de navegar, explorar y utilizar cualquier recurso que encuentres útil.
+
+Compilador utilizado mingw32
 
 ## Contenido
 - [Ejercicios](#ejercicios)
